@@ -1,4 +1,33 @@
-## Hola, soy Marcos Davila! Bienvenido a mi perfil!
+![Hi, I'm Marcos](https://github.com/MarcosDavila1/MarcosDavila1/blob/main/assets/background.png)
+
+<h2 align="center">
+Full Stack Developer from Argentina to :earth_americas:
+</h2>
+
+&nbsp;&nbsp;
+
+## 📚 Languages and Tools:
+
+<p>
+  <code><img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
+  <code><img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"></code>
+  <code><img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"></code>
+  <code><img width="10%" height="85px" src="https://github.com/WanCirone/wancirone/blob/main/logos/expressjs.svg"></code>
+  <code><img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"></code>
+  <code><img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"></code>  
+  <br />
+  <code><img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg"></code>
+  <code><img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"></code>
+  <code><img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg"></code>
+  <code><img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg"></code>
+  <code><img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"></code>
+  <code><img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"></code>  
+  
+  <br />
+</p>
+
+&nbsp;
+
 <div align="center">
   <a href="https://github.com/MarcosDavila1">
   <img align="center" height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=MarcosDavila1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
