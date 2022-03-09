@@ -31,6 +31,10 @@ Full Stack Developer from Argentina to :earth_americas:
 ## :pushpin: My proyects
 
 <p align="center">
+  <a><img width="45%" src="https://github.com/MarcosDavila1/MarcosDavila1/blob/main/assets/thumbnail.ecommerce.png"></a>
+  <a><img width="45%" src="https://github.com/MarcosDavila1/MarcosDavila1/blob/main/assets/ecommerce.minicart.png"></a>
+</p>
+<p align="center">
   <a><img width="45%" src="https://github.com/MarcosDavila1/MarcosDavila1/blob/main/assets/taskapp.png"></a>
   <a><img width="45%" src="https://github.com/MarcosDavila1/MarcosDavila1/blob/main/assets/blogcafe.png"></a>  
 </p>
