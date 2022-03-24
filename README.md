@@ -56,5 +56,5 @@ Full Stack Developer from Argentina to :earth_americas:
 ## :paperclip: How to reach me:
 <span >
 <a href="https://www.linkedin.com/in/marcosdavila2/" ><img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"> &nbsp;
-<a href="mailto:marcos.duarte242@gmail.com" ><img width="5%" src="https://cdn-icons.flaticon.com/png/512/3686/premium/3686989.png?token=exp=1645208533~hmac=67619973dbd367743191a3df9f8df4c3">
+<a href="mailto:marcos.duarte242@gmail.com" ><img width="5%" src="https://freesvg.org/img/Mail-Icon-White-on-Grey.png">
 </span>
