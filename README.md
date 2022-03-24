@@ -32,7 +32,7 @@ Full Stack Developer from Argentina to :earth_americas:
 
 <p align="center">
   <a><img width="45%" src="https://github.com/MarcosDavila1/MarcosDavila1/blob/main/assets/thumbnail-country.png"></a>
-  <a><img width="45%" src="https://github.com/MarcosDavila1/MarcosDavila1/blob/main/assets/thumbnail-login.png"></a>
+  <a><img width="45%" src="https://github.com/MarcosDavila1/MarcosDavila1/blob/main/assets/thumbnail-country2.png"></a>
 </p>
 <p align="center">
   <a><img width="45%" src="https://github.com/MarcosDavila1/MarcosDavila1/blob/main/assets/thumbnail.ecommerce.png"></a>
@@ -45,6 +45,10 @@ Full Stack Developer from Argentina to :earth_americas:
 <p align="center">
   <a><img width="45%" src="https://github.com/MarcosDavila1/MarcosDavila1/blob/main/assets/tesla.png"></a>
   <a><img width="45%" src="https://github.com/MarcosDavila1/MarcosDavila1/blob/main/assets/appclima.png"></a>
+</p>
+<p align="center">
+  <a><img width="45%" src="https://github.com/MarcosDavila1/MarcosDavila1/blob/main/assets/thumbnail.login.png"></a>
+  <a><img width="45%" src="https://github.com/MarcosDavila1/MarcosDavila1/blob/main/assets/thumbnail.login2.png"></a>  
 </p>
 
 &nbsp;
