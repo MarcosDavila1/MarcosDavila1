@@ -31,6 +31,14 @@ Full Stack Developer from Argentina to :earth_americas:
 ## :pushpin: My proyects
 
 <p align="center">
+  <a><img width="45%" src="https://github.com/MarcosDavila1/MarcosDavila1/blob/main/assets/zooper-landing.png"></a>
+  <a><img width="45%" src="https://github.com/MarcosDavila1/MarcosDavila1/blob/main/assets/zooper-game.png"></a>
+</p>
+<p align="center">
+  <a><img width="45%" src="https://github.com/MarcosDavila1/MarcosDavila1/blob/main/assets/zooper-admin.png"></a>
+  <a><img width="45%" src="https://github.com/MarcosDavila1/MarcosDavila1/blob/main/assets/zooper-tienda.png"></a>
+</p>
+<p align="center">
   <a><img width="45%" src="https://github.com/MarcosDavila1/MarcosDavila1/blob/main/assets/thumbnail-country.png"></a>
   <a><img width="45%" src="https://github.com/MarcosDavila1/MarcosDavila1/blob/main/assets/thumbnail-country2.png"></a>
 </p>
